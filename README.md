@@ -23,5 +23,3 @@ A successfull repair, however I will replace thoses 16v with 25v caps once my or
 - [12V Battery Low warning - SOLVED - read if you have a CTEK battery charger!](https://forums.ross-tech.com/index.php?threads/37328/)
 - [CTEK battery charger Mode button fault - simple fix](https://www.volvoforums.org.uk/showthread.php?t=268116)
 - []()
-
-
