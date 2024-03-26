@@ -12,6 +12,8 @@ They use 16v caps on the DC output like planned obsolescence beta cucks...
 
 [<img src="img/IMG_6853-min.JPG" width="500"/>](img/IMG_6853-min.JPG)
 
+[<img src="img/IMG_6859-min.JPG" width="500"/>](img/IMG_6859-min.JPG)
+
 Those caps should be at least 25v!! 16v is too low in my opinion always run them at around 50% - 60% of the rated voltage (Around 14.5v is the highest constant voltage in this case!!!) even if they are 105°C caps they will fail again in time. 
 
 Unfortunately there's limited space but I was able to get 3300uf 16v squeezed in and I soldered a glass fuse holder replacing the 30A blade fuse (using 10A fuse) just in case.
